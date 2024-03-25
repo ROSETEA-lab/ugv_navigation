@@ -1,0 +1,15 @@
+[submodule "rplidar_ros"]
+	path = rplidar_ros
+	url = https://github.com/ROSETEA-lab/rplidar_ros.git
+[submodule "nmea_navsat_driver"]
+	path = nmea_navsat_driver
+	url = https://github.com/ROSETEA-lab/nmea_navsat_driver.git
+[submodule "ugv_gazebo_sim"]
+	path = ugv_gazebo_sim
+	url = https://github.com/ROSETEA-lab/ugv_gazebo_sim.git
+[submodule "scout_ros2"]
+	path = scout_ros2
+	url = https://github.com/ROSETEA-lab/scout_ros2.git
+[submodule "ugv_sdk"]
+	path = ugv_sdk
+	url = https://github.com/agilexrobotics/ugv_sdk.git
